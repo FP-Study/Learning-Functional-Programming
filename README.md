@@ -1,1 +1,1 @@
-# Learning-Funtional-Programming
+# Learning-Functional-Programming
